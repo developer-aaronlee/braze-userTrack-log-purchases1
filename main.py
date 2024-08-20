@@ -3,7 +3,7 @@ import json
 import requests
 
 url = 'https://rest.iad-06.braze.com/users/track'
-API_KEY = 'Bearer a7648135-f31a-44bf-a6eb-2dbf9de8b8d6'
+API_KEY = 'Bearer api_key'
 
 headers = {
     'Content-Type': 'application/json',
